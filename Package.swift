@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ElasticApmWrapper",
-            path: "./ElasticApmWrapper.xcframework"
+            path: "Frameworks/ElasticApmWrapper.xcframework"
         )
     ]
 )
