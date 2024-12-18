@@ -1,0 +1,4 @@
+module ElasticApmWrapper {
+header "ElasticApmWrapper-Swift.h"
+export *
+}
